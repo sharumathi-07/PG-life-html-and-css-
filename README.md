@@ -1,4 +1,4 @@
-                                PG Life – Static Website (HTML & CSS)
+                                 PG Life – Static Website (HTML & CSS)
 <img width="1585" height="770" alt="image" src="https://github.com/user-attachments/assets/5802e71c-1886-48e9-9cf4-208244880571" />
 
 This repository contains a simple, clean, and responsive static website for PG Life, designed using only HTML and CSS.
